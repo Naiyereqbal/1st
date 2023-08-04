@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20230803T193000
+DTEND;TZID=Asia/Kolkata:20230831T210000
+RRULE:FREQ=DAILY
+DTSTAMP:20230803T055113Z
+ORGANIZER;CN=codingidol4u@gmail.com:mailto:codingidol4u@gmail.com
+UID:7e7tqc7uue0trji6ho0cs2cvtc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=naiyereqbal647@gmail.com;X-NUM-GUESTS=0:mailto:naiyereqbal647@gmail
+ .com
+X-GOOGLE-CONFERENCE:https://meet.google.com/efv-dhpa-enx
+X-MICROSOFT-CDO-OWNERAPPTID:-106813905
+CREATED:20230803T055110Z
+DESCRIPTION:Summer Internship - 1 in Web Development for Diploma 1st Year S
+ tudents.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ef
+ v-dhpa-enx\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230803T055110Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Internship - 1
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
